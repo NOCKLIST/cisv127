@@ -11,3 +11,6 @@ HERE IS WHERE YOU WILL FIND YOUR ASSOCIATE ID.  YOU WILL NEED THIS LATER FOR CRE
 4. READ THE [ZAZZLE How to Build Referral Links](http://www.zazzle.com/sell/affiliates/referrallinks)
 
 5. PLACE YOUR ZAZZLE ID IN THE APPROPRIATE LINKS.  
+
+
+![](http://thenocklist.com/software/img/slide1.jpg)
