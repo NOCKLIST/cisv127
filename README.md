@@ -1,7 +1,7 @@
 ![](http://thenocklist.com/software/img/slide2.jpg)
 
 
-1. DOWNLOAD THE [NOCKLIST CONTENT INTEGRATION SYSTEM127 ZIP](https://github.com/NOCKLIST/cisv127)
+1. DOWNLOAD THE [NOCKLIST CONTENT INTEGRATION SYSTEM V127 ZIP](https://github.com/NOCKLIST/cisv127)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
